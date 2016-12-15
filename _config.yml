@@ -1,0 +1,29 @@
+typography_spectrum: 0.4646210402859715
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.04445781768299151
+  lightness: 0.7827390439951926
+  saturation: 0.3940125007724232
+  rhythmicContrast: 0.8368880776606819
+github: true
+layout_spectrum: 0.5561128551263856
+author:
+  name: Alaena  VanderMost
+  email: me@alaenavandermost.com
+  url: tellmombo.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/24eac603-68f6-48d4-888c-42f1ee6e2d44.gif
+name: tell-mombo
+url: 'http://www.tellmombo.com'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e248d3d8-dee5-40a8-96c7-6ce86409e484.gif
+content: []
+purpose:
+  - type: external
+    label: Tell Mombo
+    url: 'http://www.tellmombo.com'
