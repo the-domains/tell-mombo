@@ -25,7 +25,4 @@ favicon: >-
 title: 'Hey - What''s Up, Hello?'
 content: []
 description: Tell Mombo something good
-purpose:
-  - type: external
-    label: Tell Mombo
-    url: 'http://www.tellmombo.com'
+purpose: []
