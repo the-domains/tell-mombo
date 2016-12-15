@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hey - What's Up, Hello?]]></title>
+        <description><![CDATA[Hey - What's Up, Hello?]]></description>
+        <link>http://www.tellmombo.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 15 Dec 2016 18:35:18 GMT</lastBuildDate>
+        <atom:link href="http://www.tellmombo.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy Birthday to tellmombo.com!]]></title>
+            <description><![CDATA[<article><h1>Happy Birthday to tellmombo.com!</h1><h2>What the what?</h2><p>Where we love is home - home that our feet may leave, but not our hearts. </p></article>]]></description>
+            <link>http://www.tellmombo.com/happy-birthday-to-tellmombocom/index.html</link>
+            <guid isPermaLink="false">dafaf60a-4988-4a20-bf4b-71d479ec1764</guid>
+            <pubDate>Thu, 15 Dec 2016 18:34:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
