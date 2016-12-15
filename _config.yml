@@ -29,3 +29,6 @@ purpose:
   - type: external
     url: 'https://play.google.com/store/apps/details?id=io.thegrid.app&hl=en'
     label: Get Started on Android
+  - type: external
+    url: 'http://app.thegrid.io'
+    label: Get Started on Desktop
