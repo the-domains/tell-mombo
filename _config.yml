@@ -25,4 +25,7 @@ favicon: >-
 title: 'Hey - What''s Up, Hello?'
 content: []
 description: Tell Mombo something good
-purpose: []
+purpose:
+  - type: external
+    url: 'https://app.thegrid.io'
+    label: Make a Post (desktop)
