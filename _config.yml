@@ -18,7 +18,7 @@ author:
   url: tellmombo.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/24eac603-68f6-48d4-888c-42f1ee6e2d44.gif
-name: tell-mombo
+name: tell mombo and pa
 url: 'http://www.momboandpa.com'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e248d3d8-dee5-40a8-96c7-6ce86409e484.gif
@@ -31,4 +31,4 @@ purpose:
     label: Get Started on Android
   - type: external
     url: 'http://app.thegrid.io'
-    label: Get Started on Desktop
+    label: 'http://app.thegrid.io'
